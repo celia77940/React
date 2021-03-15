@@ -28,9 +28,9 @@ import ClientForm from "./ClientForm";
 class App extends React.Component {
   state = {
     clients: [
-      { id: 1, nom: "Lior Chamla" },
-      { id: 2, nom: "Magali Pernin" },
-      { id: 3, nom: "Joseph Durand" }
+      { id: 1, nom: "celia rameau" },
+      { id: 2, nom: "quentin urbanski" },
+      { id: 3, nom: "frederique rameau" }
     ]
   };
 
